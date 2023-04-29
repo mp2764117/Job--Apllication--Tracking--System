@@ -1,1 +1,1 @@
-# Job--Apllication--Tracking--System
+# Job--Application--Tracking--System
